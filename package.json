@@ -1,0 +1,13 @@
+{
+  "name": "fileser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "start": "node ./file.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"npm run start"
+  },
+  "author": "",
+  "license": "ISC"
+}
